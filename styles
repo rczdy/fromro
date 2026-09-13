@@ -1,0 +1,44 @@
+.bs {
+    color: rgba(255, 4, 0, 0.88);
+}
+
+#headingH1 {
+  background: -webkit-linear-gradient(blue, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-size: 76px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: red;
+}
+
+#paragraph95 {
+    color: rgba(255, 68, 0, 0.818);
+}
+
+
+span {
+    text-decoration: underline
+}
+
+#image56 {
+    border: solid;
+    border-color: blue;
+    padding: 10px;
+    display: inline-block;
+}
+
+#SM {
+    color: coral;
+}
+#iup6 {
+    color: coral;
+font-size: medium; 
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+#span56{
+    color: black;
+}
